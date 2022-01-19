@@ -1,3 +1,11 @@
+git log should be like below so the error doesn't occur
+
+commit 36c585ef1d7efa25fe63d4d234fb327e7db39463 (HEAD -> feshmanLARR)
+Author: Greg Herlein <gherlein@herlein.com>
+Date:   Sat Nov 18 07:45:44 2017 -0800
+
+    stable mostly
+
 # Bitcraze Crazyradio dongle [![CI](https://github.com/bitcraze/crazyradio-firmware/workflows/CI/badge.svg)](https://github.com/bitcraze/crazyradio-firmware/actions?query=workflow%3ACI)
 
 Source code and tools for the Bitcraze Crazyradio USB dongle.
